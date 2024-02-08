@@ -26,7 +26,8 @@ ___
 
 
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/BurningYolo)
-[![Krita](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=krita)](https://github.com/BurningYolo)
+[![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/BurningYolo)
+[![Krita](https://img.shields.io/badge/Krita-black?style=for-the-badge&logo=krita)](https://github.com/BurningYolo)
 [![Firebase](https://img.shields.io/badge/Firebase-black?style=for-the-badge&logo=firebase)](https://github.com/BurningYolo)
 
 ___
