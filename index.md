@@ -52,7 +52,25 @@
 <br>
 <br>
 <br>
-### Anime lover <img src="cute_loli.gif" width="70px"> & PC Games Enjoyer 
+### Anime & Manga lover <img src="cute_loli.gif" width="100px"> & Video Games Enjoyer  <img src="gamee.gif" width="100px">
+<br>
+
+
+#### Anime & Manga List 
+[![AnimePlanet](https://img.shields.io/badge/AnimePlanet-black?style=for-the-badge&logo=myanimelist)](https://www.anime-planet.com/users/Burningyolo/)
+
+<br>
+
+#### Other Socials 
+[![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/burning_soul2/)
+[![Riot](https://img.shields.io/badge/BurningYolo%23LoL-black?style=for-the-badge&logo=riotgames)](https://www.op.gg/summoners/sg/BurningYolo-LoL)
+[![Discord](https://img.shields.io/badge/BurningYolo%236591-black?style=for-the-badge&logo=discord)](https://github.com/BurningYolo)
+
+
+
+
+### Thanks for Dropping By <img src="cutie.png" width = "100px" >
+
 
 
 
