@@ -44,25 +44,28 @@ ___
 
 
 
-### Languages & Technologies
+### Familiar with these Languages & Technologies
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/BurningYolo)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/BurningYolo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/BurningYolo)
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/BurningYolo)
+[![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/BurningYolo)
 <br>
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/BurningYolo)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/BurningYolo)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/BurningYolo)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/BurningYolo)
+[![AdSense](https://img.shields.io/badge/adsense-black?style=for-the-badge&logo=googleadsense)](https://github.com/BurningYolo)
 <br>
 [![Krita](https://img.shields.io/badge/Krita-black?style=for-the-badge&logo=krita)](https://github.com/BurningYolo)
 [![Unity](https://img.shields.io/badge/unity-black?style=for-the-badge&logo=unity)](https://github.com/BurningYolo)
 [![Firebase](https://img.shields.io/badge/firebase-black?style=for-the-badge&logo=firebase)](https://github.com/BurningYolo)
 [![Xampp](https://img.shields.io/badge/xampp-black?style=for-the-badge&logo=xampp)](https://github.com/BurningYolo)
+[![AdMob](https://img.shields.io/badge/admob-black?style=for-the-badge&logo=googleadmob)](https://github.com/BurningYolo)
 <br>
 ___
 
-### Anime & Manga lover <img src="cute_loli.gif" width="100px"> & Video Games Enjoyer  <img src="gamee.gif" width="100px">
+### Anime & Manga lover <img src="cute_loli.gif" width="100px">    Video Games Enjoyer  <img src="gamee.gif" width="100px">
 
 
 #### Anime & Manga List 
@@ -72,7 +75,13 @@ ___
 [![Riot](https://img.shields.io/badge/BurningYolo%23LoL-black?style=for-the-badge&logo=riotgames)](https://www.op.gg/summoners/sg/BurningYolo-LoL)
 [![Discord](https://img.shields.io/badge/BurningYolo%236591-black?style=for-the-badge&logo=discord)](https://github.com/BurningYolo)
 ___
-### Check out my Portfolio [![Github](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://burningyolo.github.io/CV-Portfolio/)
+### Check out my Portfolio [![Github](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://burningyolo.github.io/CV-Portfolio/) 
+___
+
+<img src="crying.png" width="70px"> 
+
+###  Please Hire me 🥺
+
 ___
 
 
