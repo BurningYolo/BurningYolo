@@ -36,9 +36,11 @@ ___
 [![HTML](https://img.shields.io/badge/html-black?style=for-the-badge&logo=html5)](https://github.com/BurningYolo)
 [![CSS](https://img.shields.io/badge/css-black?style=for-the-badge&logo=css3)](https://github.com/BurningYolo)   
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/BurningYolo)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/BurningYolo)
 [![Jquery](https://img.shields.io/badge/jquery-black?style=for-the-badge&logo=jquery)](https://github.com/BurningYolo)
 [![PHP](https://img.shields.io/badge/php-black?style=for-the-badge&logo=php)](https://github.com/BurningYolo)
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/BurningYolo)
+[![NPM](https://img.shields.io/badge/npm-black?style=for-the-badge&logo=npm)](https://github.com/BurningYolo)
 
 ___
 
@@ -47,6 +49,7 @@ ___
 ### Familiar with these Languages & Technologies
 [![Python](https://img.shields.io/badge/python-black?style=for-the-badge&logo=python)](https://github.com/BurningYolo)
 [![JavaScript](https://img.shields.io/badge/javascript-black?style=for-the-badge&logo=javascript)](https://github.com/BurningYolo)
+[![TypeScript](https://img.shields.io/badge/typescript-black?style=for-the-badge&logo=typescript)](https://github.com/BurningYolo)
 [![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/BurningYolo)
 [![C#](https://img.shields.io/badge/c%23-black?style=for-the-badge&logo=csharp)](https://github.com/BurningYolo)
 [![Bash](https://img.shields.io/badge/bash-black?style=for-the-badge&logo=gnubash)](https://github.com/BurningYolo)
