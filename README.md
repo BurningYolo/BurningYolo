@@ -1,6 +1,6 @@
 <div align="center">
 <p align="center">
-  <img src="https://count.getloli.com/get/@BurningYolo?theme=asoul" />
+  <!-- <img src="https://count.getloli.com/get/@BurningYolo?theme=asoul" /> -->
 </p>
     <br>
 
