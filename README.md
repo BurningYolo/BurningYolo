@@ -115,7 +115,7 @@ ___
 ___
 ___
 
-### Check out my Portfolio [![Github](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://burningyolo.github.io/CV-Portfolio/)
+### Check out my Portfolio [![Github](https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=github)](https://hishuanigami.com/)
 <br>
 
 ### Explore my pinned repositories too 🥺
