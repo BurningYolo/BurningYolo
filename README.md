@@ -73,7 +73,6 @@ ___
 
 #### Other Socials 
 [![Steam](https://img.shields.io/badge/Steam-black?style=for-the-badge&logo=steam)](https://steamcommunity.com/id/burning_soul2/)
-[![Riot](https://img.shields.io/badge/BurningYolo%23LoL-black?style=for-the-badge&logo=riotgames)](https://www.op.gg/summoners/sg/BurningYolo-LoL)
 [![Discord](https://img.shields.io/badge/BurningYolo%236591-black?style=for-the-badge&logo=discord)](https://github.com/BurningYolo)
 
 ___
