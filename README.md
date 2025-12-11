@@ -78,7 +78,7 @@ ___
 ___
 
 ### 🌐 Visit my Website  
-[![Website](https://img.shields.io/badge/hishuanigami.com-black?style=for-the-badge&logo=googlechrome)](https://hishuanigami.com)
+[![Website](https://img.shields.io/badge/website-black?style=for-the-badge&logo=googlechrome)](https://hisham-zahid.online)
 
 <br>
 
